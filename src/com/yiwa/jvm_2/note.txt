@@ -1,0 +1,9 @@
+
+https://blog.csdn.net/qq_42058242/article/details/106278252#ppt%E9%A2%84%E8%A7%88%E2%80%8B
+方法区
+堆
+
+本地方法栈 ：无GC
+虚拟机栈 ：无GC
+程序计数器：无GC 无OOM
+
